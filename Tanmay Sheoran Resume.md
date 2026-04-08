@@ -67,4 +67,5 @@ Developed an automated resource allocation system for multi-tenant Azure environ
 
 ### FastAPI Audit
 Built a lightweight middleware for FastAPI that logs API requests and responses (POST, PUT, PATCH, DELETE) into databases. Supports MySQL, PostgreSQL, Oracle, and SQLite.
+https://pypi.org/project/fastapi-audit/
 
